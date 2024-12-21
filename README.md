@@ -26,4 +26,4 @@ The **Kanban ToDo App** is a task management application designed to help you or
 
 1. Clone this repository to your local machine:  
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone [https://github.com/Om200306/Kanban-todo-assignment.git]
